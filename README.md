@@ -1,9 +1,3 @@
-### [![@neerajbelsare's Holopin board](https://holopin.me/neerajbelsare)](https://holopin.io/@neerajbelsare)
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/neerajbelsare/count.svg?"  />
-</div>
-
 ###
 
 ### Hi there 👋, I'm Neeraj
